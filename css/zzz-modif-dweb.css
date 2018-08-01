@@ -1,0 +1,18 @@
+.main-site-logo .logo #logo-en{
+    height: auto;
+    max-width: 115px;
+}
+
+.node339081 #zone2 div.pl-main-content.js-partner-ajax-load  div.pl-trigger-wrap  button {
+   display: none;
+}
+
+
+/** ALIGNEMENT PARTNER**/
+
+.partner .pl-item{
+vertical-align:top;
+}
+
+.block-page.partner-list div.inside a.link-read-more span.ezstring-field {display:none}
+
