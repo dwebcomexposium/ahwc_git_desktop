@@ -1670,6 +1670,7 @@ img.at-illust {
   display: inline-block;
   padding: 0;
   margin-bottom: 3rem;
+  vertical-align: top;
 }
 .partner .pl-item-illust {
   margin: 0 0 1rem 0;
